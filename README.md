@@ -14,7 +14,7 @@ I am a creative director who transforms ideas into meaningful visual experiences
 
 ## Branding 
 
-![branding](branding/Joshua_Monsalud-_C.R.A.P.pdf)
+![branding](Portfolio.png)](branding/Joshua_Monsalud-_C.R.A.P.pdf)
 
 This project focused on creating a minimalist luxury identity for Casa Felina. I selected a warm neutral palette and simple architectural iconography to communicate comfort, relaxation, and sophistication.
 
