@@ -38,5 +38,5 @@ This project focused on creating a minimalist luxury identity for Casa Felina. I
 
 ![Visuals](visuals/banner.png)
 
-![Promotional](visuals/promotional_post.png)
+![Promotional](visuals/promotional-post.png)
 
