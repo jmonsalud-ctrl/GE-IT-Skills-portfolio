@@ -30,7 +30,7 @@ This project focused on creating a minimalist luxury identity for Casa Felina. I
 
 This project focused on creating a minimalist luxury identity for Casa Felina. I selected a warm neutral palette and simple architectural iconography to communicate comfort, relaxation, and sophistication.
 
-[![media 2](media/Self_Intro.png)](media/Self_intro.mp4)
+[![Self](media/Self_Intro.png)](media/Self_intro.mp4)
 
 This project focused on creating a minimalist luxury identity for Casa Felina. I selected a warm neutral palette and simple architectural iconography to communicate comfort, relaxation, and sophistication.
 
@@ -38,8 +38,6 @@ This project focused on creating a minimalist luxury identity for Casa Felina. I
 
 ![visuals](visuals/banner.png)
 
-This project focused on creating a minimalist luxury identity for Casa Felina. I selected a warm neutral palette and simple architectural iconography to communicate comfort, relaxation, and sophistication.
 
-![visuals 2](visuals/promotional_post.png)
+![Promotional](visuals/promotional_post.png)
 
-This project focused on creating a minimalist luxury identity for Casa Felina. I selected a warm neutral palette and simple architectural iconography to communicate comfort, relaxation, and sophistication.
