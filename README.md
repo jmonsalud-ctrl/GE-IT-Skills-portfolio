@@ -16,27 +16,30 @@ I am a creative director who transforms ideas into meaningful visual experiences
 
 [![branding](branding/Portfolio.png)](branding/Joshua_Monsalud-_C.R.A.P.pdf)
 
-This project focused on creating a minimalist luxury identity for Casa Felina. I selected a warm neutral palette and simple architectural iconography to communicate comfort, relaxation, and sophistication.
+My branding has 3 simple yet striking colors, consisting of red, white, and black. To not only visually interest clients but strike a very professional yet stylistic impression.
 
 ## Docs
 
 [![docs](docs/InfoGraphic.png)](docs/Infographic_-_Monsalud.pdf)
 
-This project focused on creating a minimalist luxury identity for Casa Felina. I selected a warm neutral palette and simple architectural iconography to communicate comfort, relaxation, and sophistication.
+This project took a minimalistic approach but that's due to me wanting viewers to fully pay attention to the topic which is: AI in Journalism. Discussing it's impact and what we can do against it.
 
 ## Media
 
 [![media](media/Prototype.png)](media/Prototype_Link.pdf)
 
-This project focused on creating a minimalist luxury identity for Casa Felina. I selected a warm neutral palette and simple architectural iconography to communicate comfort, relaxation, and sophistication.
+This serves as another portfolio site that uses a minimalistic approach. Using the canva features I was able to create a MOCKUP site dedicated to my branding. Using the same branding visuals to keep it consistent.
 
 [![Self](media/Self-Intro.png)](media/Self_intro.mp4)
 
-This project focused on creating a minimalist luxury identity for Casa Felina. I selected a warm neutral palette and simple architectural iconography to communicate comfort, relaxation, and sophistication.
+Minimal in editing but hopefully I was able to effectively deliver what you could possibly learn from me and my work. 30 seconds in total is enough time to be able to get to know me.
 
 ## Visuals
 
 ![Visuals](visuals/banner.png)
 
+Simple and striking like I always intended. Especially with the half tones.
+
 ![Promotional](visuals/promotional-post.png)
 
+Lastly here's more of my portfolio work. Introducing what I can do to help create your visuals more effectively.
