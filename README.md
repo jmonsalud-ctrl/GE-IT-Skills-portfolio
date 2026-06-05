@@ -14,32 +14,32 @@ I am a creative director who transforms ideas into meaningful visual experiences
 
 ## Branding 
 
-![view branding](branding/Joshua_Monsalud-_C.R.A.P.pdf)
+![branding](branding/Joshua_Monsalud-_C.R.A.P.pdf)
 
 This project focused on creating a minimalist luxury identity for Casa Felina. I selected a warm neutral palette and simple architectural iconography to communicate comfort, relaxation, and sophistication.
 
 ## Docs
 
-![view docs](docs/Infofraphic_-_Monsalud.pdf)
+![docs](docs/Infofraphic_-_Monsalud.pdf)
 
 This project focused on creating a minimalist luxury identity for Casa Felina. I selected a warm neutral palette and simple architectural iconography to communicate comfort, relaxation, and sophistication.
 
 ## Media
 
-![view media](media/Prototype_Link.pdf)
+![media](media/Prototype_Link.pdf)
 
 This project focused on creating a minimalist luxury identity for Casa Felina. I selected a warm neutral palette and simple architectural iconography to communicate comfort, relaxation, and sophistication.
 
-![view media](media?Self_intro.mp4)
+![media](media?Self_intro.mp4)
 
 This project focused on creating a minimalist luxury identity for Casa Felina. I selected a warm neutral palette and simple architectural iconography to communicate comfort, relaxation, and sophistication.
 
 ## Visuals
 
-![view visuals](visuals/banner.png)
+![visuals](visuals/banner.png)
 
 This project focused on creating a minimalist luxury identity for Casa Felina. I selected a warm neutral palette and simple architectural iconography to communicate comfort, relaxation, and sophistication.
 
-![view visuals](visuals/banner.png)
+![visuals](visuals/banner.png)
 
 This project focused on creating a minimalist luxury identity for Casa Felina. I selected a warm neutral palette and simple architectural iconography to communicate comfort, relaxation, and sophistication.
