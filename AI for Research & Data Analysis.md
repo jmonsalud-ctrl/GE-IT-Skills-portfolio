@@ -21,7 +21,7 @@
 
 *Embedded High-Contrast Bar Chart: Coastal Waste Generation Trends (2020–2025)*
 
-![Coastal Waste Trend Chart](media/Samal_Coastal_Waste_Chart.png)
+![Coastal Waste Trend Chart](media/Samal_Coastal_Waste_chart.png)
 
 #### 3. Human Analytical Narrative (The 'Why' Factor)
 
