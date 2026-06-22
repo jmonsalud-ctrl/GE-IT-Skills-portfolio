@@ -15,13 +15,13 @@
 
 *Embedded High-Contrast Line Chart: Annual Tourist Arrivals in Samal Island (2020–2025)*
 
-!Annual Tourist Arrivals Chart(media/SamalTouristChart.png)
+![Annual Tourist Arrivals Chart](media/SamalTouristChart.png)
 
 ##### Chart 2: Coastal Waste Collected vs Tourist Arrivals
 
 *Embedded High-Contrast Bar Chart: Coastal Waste Generation Trends (2020–2025)*
 
-!Coastal Waste Trend Chart(media/SamalWasteChart.png)
+![Coastal Waste Trend Chart](media/SamalWasteChart.png)
 
 #### 3. Human Analytical Narrative (The 'Why' Factor)
 
