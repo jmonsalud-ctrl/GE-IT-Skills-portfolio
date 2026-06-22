@@ -26,4 +26,4 @@ Format: Output in clear Markdown with exactly three actionable recommendations u
 
 > "A flat minimalist vector logo of a mangrove tree with long roots flowing into  the ocean waves, add in a traditional Filipino banca/boat positioned under the canopy. Use clean geometric shapes, uniform line weight, and a circular badge composition."
 
-![Logo](visuals/logo.png))
+![Logo](visuals/Logo.png))
